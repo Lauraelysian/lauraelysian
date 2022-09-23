@@ -1,11 +1,11 @@
-# Seu nome
-Onde nasci...
+# Laura Elysian
+Curitiba, PR
 
 ## Objetivos Pessoais
-Meus objetivos pessoais são...
+Ser bem sucedida
 
 ## Formação
-Eu estudo no ...
+Tecpuc
 
 # O que eu gosto de fazer
-Eu gosto de ...
+Treinar e sair
